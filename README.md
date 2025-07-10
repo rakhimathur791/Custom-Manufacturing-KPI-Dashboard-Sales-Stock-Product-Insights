@@ -1,6 +1,6 @@
 # Custom-Manufacturing-KPI-Dashboard-Sales-Stock-Product-Insights
 ## DataSet
-- <a href="https://github.com/rakhimathur791/Custom-Manufacturing-KPI-Dashboard-Sales-Stock-Product-Insights/blob/main/Source%20files.zip">SOurce Files</a>
+- <a href="https://github.com/rakhimathur791/Custom-Manufacturing-KPI-Dashboard-Sales-Stock-Product-Insights/blob/main/Source%20files.zip">Source Files</a>
 
 - <a href="https://github.com/rakhimathur791/Custom-Manufacturing-KPI-Dashboard-Sales-Stock-Product-Insights/blob/main/Custom_Mfg_Dashboard_Project.xlsm">Master Manufacturing Dashboard</a>
 ## Project Objective

@@ -1,6 +1,6 @@
 # Custom-Manufacturing-KPI-Dashboard-Sales-Stock-Product-Insights
 ## DataSet
-
+- <a href="https://github.com/rakhimathur791/Data-Analysis-Dashboard-Superstore/blob/main/Data%20Analysis%20-%20Superstore.xlsx">Dataset</a>
 ## Project Objective
 To build a fully automated Excel-based dashboard for a small-scale manufacturing company that provides a centralized, real-time view of sales, inventory levels, product performance, and category-wise analysis. The goal was to streamline decision-making through dynamic visuals and automated data consolidation.
 
